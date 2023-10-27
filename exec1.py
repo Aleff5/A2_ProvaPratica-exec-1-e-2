@@ -1,6 +1,5 @@
 import matplotlib.pyplot as plt
 
-# ALUNOS: ALEFF 22308138 E LUIZ FELIPE 22300737
 
 class Armazem:
     def __init__(self):
